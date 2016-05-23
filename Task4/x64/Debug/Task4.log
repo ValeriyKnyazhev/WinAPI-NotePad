@@ -1,0 +1,8 @@
+﻿  WinMain.cpp
+  COverlappedWindow.cpp
+d:\visualstudio2015projects\task4\task4\coverlappedwindow.cpp(22): warning C4311: reinterpret_cast: усечение указателя из "COverlappedWindow *" в "LONG"
+d:\visualstudio2015projects\task4\task4\coverlappedwindow.cpp(22): warning C4302: reinterpret_cast: усечение из "COverlappedWindow *" в "LONG"
+d:\visualstudio2015projects\task4\task4\coverlappedwindow.cpp(144): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Создание кода...
+  Task4.vcxproj -> D:\VisualStudio2015Projects\Task4\x64\Debug\Task4.exe
+  Task4.vcxproj -> D:\VisualStudio2015Projects\Task4\x64\Debug\Task4.pdb (Partial PDB)
